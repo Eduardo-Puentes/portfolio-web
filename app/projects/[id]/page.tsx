@@ -19,7 +19,7 @@ export default function ProjectDetail({ params }: any) {
           rel="noopener noreferrer"
           className="inline-block px-4 py-2 bg-primary hover:bg-primary-700 text-white rounded-md transition"
         >
-          View Live Demo
+          View Project
         </a>
       )}
 
